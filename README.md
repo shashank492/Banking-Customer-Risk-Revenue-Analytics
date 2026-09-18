@@ -5,10 +5,10 @@ An end-to-end Data Analyst portfolio project for a fictional bank, ABC Bank. The
 
 **Workflow:** Raw Data → Cleaning → MySQL → Python → Power BI → Business Insights → Recommendations
 
-> ABC Bank and all data are fictional and created for educational/portfolio purposes.
+>  Bank and all data are fictional and created for educational/portfolio purposes.
 
 ## Business Problem
-ABC Bank wants to understand customer activity, churn, customer value, complaints and loan risk.
+ Bank wants to understand customer activity, churn, customer value, complaints and loan risk.
 
 Key questions:
 - Where is the customer base concentrated?
