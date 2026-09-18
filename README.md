@@ -1,7 +1,7 @@
-# ABC Bank — Customer Risk & Transaction Analytics
+# Bank — Customer Risk & Transaction Analytics
 
 ## Project Overview
-An end-to-end Data Analyst portfolio project for a fictional bank, ABC Bank. The project analyzes customer behavior, transactions, loans, complaints, customer value and churn risk.
+An end-to-end Data Analyst portfolio project for a fictional bank, Bank. The project analyzes customer behavior, transactions, loans, complaints, customer value and churn risk.
 
 **Workflow:** Raw Data → Cleaning → MySQL → Python → Power BI → Business Insights → Recommendations
 
